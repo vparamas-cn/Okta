@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.holder {
+    text-align: center;
+    margin-bottom: 20%;
+}
+.labletxt {
+    font-size: 30px;
+}
+.cellholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.goback {
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
